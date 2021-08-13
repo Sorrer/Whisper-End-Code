@@ -1,0 +1,19 @@
+{
+    "name": "Game.Interactables.Predefined",
+    "references": [
+        "GUID:6eb73f35a508e584c83197625525ff0d",
+        "GUID:527489940a89b4d4aababddc21470503",
+        "GUID:2ac06f4bc2012e74fb06323bc4ca2018",
+        "GUID:b8e24fd1eb19b4226afebb2810e3c19b",
+        "GUID:4e51776715089cf468a250152bf65ada"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

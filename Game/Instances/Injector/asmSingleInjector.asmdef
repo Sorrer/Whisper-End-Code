@@ -1,0 +1,20 @@
+{
+    "name": "asmSingleInjector",
+    "references": [
+        "GUID:2ac06f4bc2012e74fb06323bc4ca2018",
+        "GUID:527489940a89b4d4aababddc21470503",
+        "GUID:6eb73f35a508e584c83197625525ff0d",
+        "GUID:7cc8c37204b18fb478813516c41409f8",
+        "GUID:4af038a3723a19a4a9de2908fd0d808b",
+        "GUID:4c5738613cf083b4c8b4b38953ff4ae5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

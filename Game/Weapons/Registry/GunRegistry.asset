@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 960e69e893871ea41ae0d915ca2afa97, type: 3}
+  m_Name: GunRegistry
+  m_EditorClassIdentifier: 
+  itemPairs:
+  - id: base_ar
+    value: {fileID: 11400000, guid: c97bf2fc66961564f9c8d9b38ce65321, type: 2}
+  - id: test_gun_1
+    value: {fileID: 11400000, guid: 351bc4d17b8a5c341bcc7a50a1fb2b25, type: 2}
+  - id: test_gun_2
+    value: {fileID: 11400000, guid: 6ce2ae3f6caa474488f43813251c0c79, type: 2}
+  - id: test_gun_3
+    value: {fileID: 11400000, guid: 838f722604bc14841a0358c948e55b2c, type: 2}
+  - id: test_gun_4
+    value: {fileID: 11400000, guid: e891610ec84e2cb4db91860a6020a41a, type: 2}

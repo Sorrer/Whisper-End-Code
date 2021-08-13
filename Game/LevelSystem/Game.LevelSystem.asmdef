@@ -1,0 +1,18 @@
+{
+    "name": "Game.LevelSystem",
+    "references": [
+        "GUID:4af038a3723a19a4a9de2908fd0d808b",
+        "GUID:6eb73f35a508e584c83197625525ff0d",
+        "GUID:8fd346118ad545d45a5b773bd8cc2b86",
+        "GUID:4e51776715089cf468a250152bf65ada"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

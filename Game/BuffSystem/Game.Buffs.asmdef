@@ -1,0 +1,15 @@
+{
+    "name": "Game.Buffs",
+    "references": [
+        "GUID:e40e492752695d14faf1c08cad09c16c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Game.Player",
+    "references": [
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:8fd346118ad545d45a5b773bd8cc2b86",
+        "GUID:e40e492752695d14faf1c08cad09c16c",
+        "GUID:6eb73f35a508e584c83197625525ff0d",
+        "GUID:cce6cd4f7a98f4b458ca034bf38fb1b8",
+        "GUID:7cc8c37204b18fb478813516c41409f8",
+        "GUID:4e51776715089cf468a250152bf65ada",
+        "GUID:4c5738613cf083b4c8b4b38953ff4ae5",
+        "GUID:527489940a89b4d4aababddc21470503",
+        "GUID:ab5e8093b70df074c99fc39d3ba1c199",
+        "GUID:46ab238bed32d454d8febd86cfaa9d6b",
+        "GUID:d2681391414a8674cb43b26d41913399"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

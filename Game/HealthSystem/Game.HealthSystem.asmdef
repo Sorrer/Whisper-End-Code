@@ -1,0 +1,15 @@
+{
+    "name": "Game.HealthSystem",
+    "references": [
+        "GUID:46ab238bed32d454d8febd86cfaa9d6b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

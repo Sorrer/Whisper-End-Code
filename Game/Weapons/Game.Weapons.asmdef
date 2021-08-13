@@ -1,0 +1,20 @@
+{
+    "name": "Game.Weapons",
+    "references": [
+        "GUID:46ab238bed32d454d8febd86cfaa9d6b",
+        "GUID:e40e492752695d14faf1c08cad09c16c",
+        "GUID:2e309115f926064499f895d6d6a31d68",
+        "GUID:527489940a89b4d4aababddc21470503",
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:7cc8c37204b18fb478813516c41409f8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

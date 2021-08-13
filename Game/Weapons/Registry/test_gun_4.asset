@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 771bb78df7ee0094186be0eb7dad84d3, type: 3}
+  m_Name: test_gun_4
+  m_EditorClassIdentifier: 
+  ItemID: test_gun_4
+  ItemName: Test Gun 4
+  Type: 0
+  PhysicalSprite: {fileID: -80676652611376746, guid: 15faf99d9df0e104784206f6ad439d5d,
+    type: 3}
+  MenuIcon: {fileID: -80676652611376746, guid: 15faf99d9df0e104784206f6ad439d5d, type: 3}
+  Description: 
+  WeaponProp:
+    muzzleOffset: {x: 0, y: 0}
+    gunOffset: {x: 0, y: 0}
+    projectile: {fileID: 3654631156007691457, guid: 30cfe4cd25cd5034f96452ab5ecbefe1,
+      type: 3}
+    maxAmmoCap: 100
+    accuracy: 1
+    damage: 0
+    rateOfFire: 1
+  UpgradeProp:
+    MoreData: 0
+  MiscProp:
+    YeetData: 0
+  AttachmentsProp:
+    DaTaTa: 0
