@@ -1,0 +1,17 @@
+{
+    "name": "Game.Editor.Registry",
+    "references": [
+        "GUID:527489940a89b4d4aababddc21470503"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
