@@ -19,3 +19,14 @@ This code base includes the following
 * Level traveling system that relies of building a file that contains all connection points between every door in the game
 * Player interaction which allows the player to interact with anything through a simple script add on and events (Created by Luke)
 * Basic health system
+
+## Credits
+
+Great people who helped with the project
+
+* Sebastian (Art)
+* Boracci (Sound/Music)
+* Luke (Programmer)
+* Sai (Sound)
+* Johann (Art)
+
