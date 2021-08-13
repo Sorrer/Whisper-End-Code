@@ -4,7 +4,7 @@ Hello! This is the code created for a project with a group of friends. The core 
 
 We spent a whole summer during covid working our hardest to get something out, but at the end covid caught up. Hopefully anyone that comes across this can use this code base as examples for what you can do with Unity and some more advanced ideas.
 
-
+&nbsp;
 
 ## Project Details
 
@@ -20,6 +20,8 @@ This code base includes the following
 * Player interaction which allows the player to interact with anything through a simple script add on and events (Created by Luke)
 * Basic health system
 
+&nbsp;
+
 ## Credits
 
 Great people who helped and contributed many hard working hours with the project
@@ -33,3 +35,10 @@ Great people who helped and contributed many hard working hours with the project
 * Sai (Sound)
 * [Vinny (Writer)](https://twitter.com/zizg62)
 
+&nbsp;
+
+## Screenshots
+
+![Image of rig city](https://github.com/Sorrer/Whisper-End-Code/blob/main/Images/RigCity.PNG)
+![Image of gun mechanic](https://github.com/Sorrer/Whisper-End-Code/blob/main/Images/GunDemo.jpg)
+![Image of dialogue node graph](https://github.com/Sorrer/Whisper-End-Code/blob/main/Images/DialogueNode.png)
