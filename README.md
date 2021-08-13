@@ -22,11 +22,14 @@ This code base includes the following
 
 ## Credits
 
-Great people who helped with the project
+Great people who helped and contributed many hard working hours with the project
 
 * Sebastian (Art)
-* Boracci (Sound/Music)
-* Luke (Programmer)
+* [Johann (Art)](https://twitter.com/BubzBurnt)
+* [Kyle (Art)](https://twitter.com/doqmeet)
+* [BeetleSlap (Art)](https://twitter.com/BeetleSlap)
+* [Luke Letourneau (Programmer)](https://twitter.com/_EnderL)
+* [Boracci (Sound/Music)](https://twitter.com/borboracci)
 * Sai (Sound)
-* Johann (Art)
+* [Vinny (Writer)](https://twitter.com/zizg62)
 
